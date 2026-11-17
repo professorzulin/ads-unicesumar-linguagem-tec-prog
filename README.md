@@ -1,2 +1,2 @@
-# ads-unicesumar-linguagem-tec-prog
+# Curso De Análise em Desenvolvimento de Sistemas - Unicesumar
 Atividades da disciplina de Linguagens e Técnicas de Programação
